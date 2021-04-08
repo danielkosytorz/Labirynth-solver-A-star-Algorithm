@@ -221,7 +221,7 @@ def draw(win, grid, rows, width):
     pygame.display.update()
 
 # algorithm main
-maze = open("maze5.txt",'r')
+maze = open("maze4.txt",'r')
 maze_matrix = []
 graph = []
 for row in maze.readlines():
