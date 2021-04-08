@@ -9,3 +9,7 @@ W konsoli również wyświetlany jest układ pól wyznaczający trasę z startu 
 The exact use of the program is described in the documentation in chapter 4.
 
 To run the program, you must have the pygame module installed (maze visualization). After starting it, you just need to press SPACE to get the effect of the algorithm and its visualization. The console also displays fields showing the route from start to finish.
+
+![maze](https://github.com/danielkosytorz/Labirynth-solver-A-star-Algorithm/blob/main/maze.gif)
+
+![maze2](https://github.com/danielkosytorz/Labirynth-solver-A-star-Algorithm/blob/main/maze2.gif)
